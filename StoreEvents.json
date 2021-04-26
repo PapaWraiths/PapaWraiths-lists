@@ -271,21 +271,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "hailstorm",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "cropsprout",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "huntingparty",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "reviveall",
 		"price": 226640,
 		"karmatype": "Good"
@@ -348,6 +333,21 @@
 	{
 		"abr": "backpack",
 		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hailstorm",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "huntingparty",
+		"price": 500,
 		"karmatype": "Neutral"
 	}
 	],
