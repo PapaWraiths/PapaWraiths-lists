@@ -7214,7 +7214,7 @@
 	},
 	{
 		"abr": "annelitrice",
-		"price": 3000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Annelitrice"
 	},
@@ -7403,12 +7403,6 @@
 		"price": 67,
 		"category": "Rimatomics Product",
 		"defname": "ERS"
-	},
-	{
-		"abr": "factionpowergenerator",
-		"price": 425,
-		"category": "Misc",
-		"defname": "EmpirePowerGenerator"
 	},
 	{
 		"abr": "fieldmedicmodule",
@@ -8021,7 +8015,109 @@
 		"price": 1258,
 		"category": "Misc",
 		"defname": "RadarDish"
-	}
+	},
+	{
+		"abr": "targetingchip",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "TargetingChip"
+	},
+	{
+		"abr": "teslacoil",
+		"price": 792,
+		"category": "Misc",
+		"defname": "PPCTeslaCoil"
+	},
+	{
+		"abr": "thorturbine",
+		"price": 2017,
+		"category": "Misc",
+		"defname": "Turbine"
+	},
+	{
+		"abr": "turbineblades",
+		"price": 2,
+		"category": "Rimatomics Product",
+		"defname": "turbineBlade"
+	},
+	{
+		"abr": "uraniumpellets",
+		"price": 3,
+		"category": "Rimatomics Product",
+		"defname": "UraniumPellets"
+	},
+	{
+		"abr": "watercooling",
+		"price": 2025,
+		"category": "Misc",
+		"defname": "CoolingWater"
+	},
+	{
+		"abr": "weaponsresearchbench",
+		"price": 1217,
+		"category": "Misc",
+		"defname": "WeaponsBench"
+	},
+	{
+		"abr": "zeusturbine",
+		"price": 6075,
+		"category": "Misc",
+		"defname": "BigTurbine"
+	},
+	{
+		"abr": "constructedsolarroof",
+		"price": 214,
+		"category": "Misc",
+		"defname": "RTR_SolarRoof"
+	},
+	{
+		"abr": "constructedsteelroof",
+		"price": 160,
+		"category": "Misc",
+		"defname": "RTR_SteelRoof"
+	},
+	{
+		"abr": "constructedtransparentroof",
+		"price": 227,
+		"category": "Misc",
+		"defname": "RTR_TransparentRoof"
+	},
+	{
+		"abr": "constructedtransparentsolarroof",
+		"price": 281,
+		"category": "Misc",
+		"defname": "RTR_TransparentSolarRoof"
+	},
+	{
+		"abr": "removeconstructedsolarroof",
+		"price": 0,
+		"category": "Misc",
+		"defname": "RTR_RemoveSolarRoof"
+	},
+	{
+		"abr": "removeconstructedsteelroof",
+		"price": 0,
+		"category": "Misc",
+		"defname": "RTR_RemoveSteelRoof"
+	},
+	{
+		"abr": "removeconstructedtransparentroof",
+		"price": 0,
+		"category": "Misc",
+		"defname": "RTR_RemoveTransparentRoof"
+	},
+	{
+		"abr": "removeconstructedtransparentsolarroof",
+		"price": 0,
+		"category": "Misc",
+		"defname": "RTR_RemoveTransparentSolarRoof"
+	},
+	{
+		"abr": "removeoverheadmountain",
+		"price": 15,
+		"category": "Misc",
+		"defname": "RTR_RemoveMountainousRoof"
+	},
 	],
-	"total": 1345
+	"total": 1427
 }
