@@ -8118,6 +8118,1692 @@
 		"category": "Misc",
 		"defname": "RTR_RemoveMountainousRoof"
 	},
+	{
+		"abr": "100thammer",
+		"price": 1408,
+		"category": "Melee weapons",
+		"defname": "Kijin_100tHammer"
+	},
+	{
+		"abr": "abominationogre",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "RatOgreAbom"
+	},
+	{
+		"abr": "abominationogre",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "RatOgreAbomAnimal"
+	},
+	{
+		"abr": "agavenectar",
+		"price": 2,
+		"category": "Condiments",
+		"defname": "VCE_AgaveNectar"
+	},
+	{
+		"abr": "ancientterminal",
+		"price": 6,
+		"category": "Misc",
+		"defname": "AncientTerminal_Worshipful"
+	},
+	{
+		"abr": "barriercoat(nearmare)",
+		"price": 1575,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_Sh_BKo"
+	},
+	{
+		"abr": "bat",
+		"price": 125,
+		"category": "Animals",
+		"defname": "ROMV_BatRace"
+	},
+	{
+		"abr": "batmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ROMV_BatRace"
+	},
+	{
+		"abr": "bindingblade『geist』",
+		"price": 235,
+		"category": "Ranged weapons",
+		"defname": "Geist_Knife"
+	},
+	{
+		"abr": "bionicbuntail",
+		"price": 967,
+		"category": "Bionic",
+		"defname": "Bun_BionicTail"
+	},
+	{
+		"abr": "bioniccattail",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "Nr_BioCatTail"
+	},
+	{
+		"abr": "bionickijinhorn",
+		"price": 1808,
+		"category": "Bionic",
+		"defname": "Kijin_BionicHorn"
+	},
+	{
+		"abr": "bionickurinear",
+		"price": 1367,
+		"category": "Bionic",
+		"defname": "Kurin_BionicEar"
+	},
+	{
+		"abr": "bionickurintail",
+		"price": 992,
+		"category": "Bionic",
+		"defname": "Kurin_BionicTail"
+	},
+	{
+		"abr": "blackeveninggown(nearmare)",
+		"price": 675,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_BDress"
+	},
+	{
+		"abr": "bloodpack(animal)",
+		"price": 17,
+		"category": "Blood packs",
+		"defname": "BloodPack_Animal"
+	},
+	{
+		"abr": "bloodpack(average)",
+		"price": 100,
+		"category": "Blood packs",
+		"defname": "BloodPack_AverageBlood"
+	},
+	{
+		"abr": "bloodpack(highblood)",
+		"price": 100,
+		"category": "Blood packs",
+		"defname": "BloodPack_HighBlood"
+	},
+	{
+		"abr": "bloodpack(lowblood)",
+		"price": 100,
+		"category": "Blood packs",
+		"defname": "BloodPack_LowBlood"
+	},
+	{
+		"abr": "bloodvial(average)",
+		"price": 50,
+		"category": "Blood packs",
+		"defname": "BloodVial_AverageBlood"
+	},
+	{
+		"abr": "bloodvial(highblood)",
+		"price": 50,
+		"category": "Blood packs",
+		"defname": "BloodVial_HighBlood"
+	},
+	{
+		"abr": "bloodvial(low)",
+		"price": 50,
+		"category": "Blood packs",
+		"defname": "BloodVial_LowBlood"
+	},
+	{
+		"abr": "bloodvial(special)",
+		"price": 50,
+		"category": "Blood packs",
+		"defname": "BloodVial_Special"
+	},
+	{
+		"abr": "bloodwine(average)",
+		"price": 100,
+		"category": "Blood packs",
+		"defname": "BloodWine_AverageBlood"
+	},
+	{
+		"abr": "bloodwine(highblood)",
+		"price": 100,
+		"category": "Blood packs",
+		"defname": "BloodWine_HighBlood"
+	},
+	{
+		"abr": "bloodwine(low)",
+		"price": 100,
+		"category": "Blood packs",
+		"defname": "BloodWine_LowBlood"
+	},
+	{
+		"abr": "bloodwine(special)",
+		"price": 100,
+		"category": "Blood packs",
+		"defname": "BloodWine_Special"
+	},
+	{
+		"abr": "blouse(nearmare)",
+		"price": 342,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_Blouse"
+	},
+	{
+		"abr": "blowgun",
+		"price": 81,
+		"category": "Ranged weapons",
+		"defname": "KerbalBlowgun"
+	},
+	{
+		"abr": "boardbarricade",
+		"price": 22,
+		"category": "Security",
+		"defname": "SkavenBarricade"
+	},
+	{
+		"abr": "bone",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "BoneItem"
+	},
+	{
+		"abr": "bonearmor",
+		"price": 287,
+		"category": "Apparel",
+		"defname": "Sihv_Apparel_BoneArmor"
+	},
+	{
+		"abr": "boneash",
+		"price": 4,
+		"category": "Raw resources",
+		"defname": "BoneChina"
+	},
+	{
+		"abr": "bonechair",
+		"price": 322,
+		"category": "Furniture",
+		"defname": "BoneChair"
+	},
+	{
+		"abr": "bonemarrow",
+		"price": 2,
+		"category": "Animal products",
+		"defname": "ROMB_Marrow"
+	},
+	{
+		"abr": "bonewall",
+		"price": 26,
+		"category": "Misc",
+		"defname": "BoneWall"
+	},
+	{
+		"abr": "bonecrete",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "Bonecrete"
+	},
+	{
+		"abr": "bronze",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "Bronze"
+	},
+	{
+		"abr": "bun",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Alien_BunTribe"
+	},
+	{
+		"abr": "bunfloof",
+		"price": 4,
+		"category": "Wools",
+		"defname": "BunFloof"
+	},
+	{
+		"abr": "bun-dog",
+		"price": 750,
+		"category": "Animals",
+		"defname": "Cynobun"
+	},
+	{
+		"abr": "bun-dogmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cynobun"
+	},
+	{
+		"abr": "calciumpolymer",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "BonePlastic"
+	},
+	{
+		"abr": "cannedeggs",
+		"price": 6,
+		"category": "Meals",
+		"defname": "VCE_CannedAP"
+	},
+	{
+		"abr": "cannedfish",
+		"price": 3,
+		"category": "Meals",
+		"defname": "VCE_CannedFish"
+	},
+	{
+		"abr": "cannedfruit",
+		"price": 2,
+		"category": "Meals",
+		"defname": "VCE_CannedFruit"
+	},
+	{
+		"abr": "cannedmeat",
+		"price": 4,
+		"category": "Meals",
+		"defname": "VCE_CannedMeat"
+	},
+	{
+		"abr": "cannedproduce",
+		"price": 2,
+		"category": "Meals",
+		"defname": "VCE_CannedProduce"
+	},
+	{
+		"abr": "canningmachine",
+		"price": 383,
+		"category": "Production",
+		"defname": "VCE_CanningMachine"
+	},
+	{
+		"abr": "cape(nearmare)",
+		"price": 1050,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_Sh_Kb"
+	},
+	{
+		"abr": "cathoodie",
+		"price": 181,
+		"category": "Nyaron Apparels",
+		"defname": "Nr_CatHoodie"
+	},
+	{
+		"abr": "chatoyansniperrifle",
+		"price": 1783,
+		"category": "Nyaron ranged weapons",
+		"defname": "Nr_ChRifle"
+	},
+	{
+		"abr": "cheese",
+		"price": 17,
+		"category": "Meals",
+		"defname": "VCE_Cheese"
+	},
+	{
+		"abr": "cheesepress",
+		"price": 95,
+		"category": "Production",
+		"defname": "VCE_CheesePress"
+	},
+	{
+		"abr": "chemicalbottle",
+		"price": 417,
+		"category": "Grenades",
+		"defname": "Weapon_SkavenPoisonBottle"
+	},
+	{
+		"abr": "chemicalmine",
+		"price": 199,
+		"category": "Security",
+		"defname": "Trap_SkavenPoisonMine"
+	},
+	{
+		"abr": "cheongsam(nearmare)",
+		"price": 725,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_China"
+	},
+	{
+		"abr": "chocolatesyrup",
+		"price": 6,
+		"category": "Condiments",
+		"defname": "VCE_ChocolateSyrup"
+	},
+	{
+		"abr": "circuitbreaker",
+		"price": 278,
+		"category": "Power",
+		"defname": "Building_RTCircuitBreaker"
+	},
+	{
+		"abr": "clawbar",
+		"price": 183,
+		"category": "Melee weapons",
+		"defname": "Nr_Clawbar"
+	},
+	{
+		"abr": "cloak(nearmare)",
+		"price": 1050,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_Sh_K"
+	},
+	{
+		"abr": "clothhood",
+		"price": 105,
+		"category": "Headgear",
+		"defname": "Apparel_SkavenClothHood"
+	},
+	{
+		"abr": "coat(nearmare)",
+		"price": 1050,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_Sh_Kc"
+	},
+	{
+		"abr": "coffin",
+		"price": 143,
+		"category": "Furniture",
+		"defname": "ROMV_SimpleCoffin"
+	},
+	{
+		"abr": "condimentpreptable",
+		"price": 259,
+		"category": "Production",
+		"defname": "VCE_CondimentPrepTable"
+	},
+	{
+		"abr": "copper",
+		"price": 1,
+		"category": "Raw resources",
+		"defname": "Copper"
+	},
+	{
+		"abr": "cornedmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "SaltedMeatKijin"
+	},
+	{
+		"abr": "cribitepistol",
+		"price": 367,
+		"category": "Nyaron ranged weapons",
+		"defname": "Nr_CriPistol"
+	},
+	{
+		"abr": "cursedhelmet(nearmare)",
+		"price": 833,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_HCArmor"
+	},
+	{
+		"abr": "darkmarinearmor",
+		"price": 3392,
+		"category": "Apparel",
+		"defname": "Apparel_PowerArmorDK"
+	},
+	{
+		"abr": "darkmarinehelmet",
+		"price": 1058,
+		"category": "Headgear",
+		"defname": "Apparel_PowerArmorHelmetDK"
+	},
+	{
+		"abr": "deepfriedfish",
+		"price": 12,
+		"category": "Meals",
+		"defname": "VCE_DeepFriedFish"
+	},
+	{
+		"abr": "deepfriedmeat",
+		"price": 12,
+		"category": "Meals",
+		"defname": "VCE_DeepFriedBigMeat"
+	},
+	{
+		"abr": "deepfriedvegetables",
+		"price": 12,
+		"category": "Meals",
+		"defname": "VCE_DeepFriedVegetables"
+	},
+	{
+		"abr": "deepfryer",
+		"price": 323,
+		"category": "Production",
+		"defname": "VCE_DeepFrier"
+	},
+	{
+		"abr": "demonspear『lugae』",
+		"price": 2575,
+		"category": "Ranged weapons",
+		"defname": "Rugeiyu_Pila"
+	},
+	{
+		"abr": "digestibleresurrectornanites",
+		"price": 2500,
+		"category": "Condiments",
+		"defname": "VCE_DigestibleResurrectorNanites"
+	},
+	{
+		"abr": "doubleroyalcoffin",
+		"price": 2433,
+		"category": "Furniture",
+		"defname": "ROMV_RoyalCoffinDouble"
+	},
+	{
+		"abr": "dreamwand『wildhunt』",
+		"price": 5200,
+		"category": "Ranged weapons",
+		"defname": "Nearmaere_WildHunt"
+	},
+	{
+		"abr": "duffelcoat(nearmare)",
+		"price": 1050,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_Sh_Ke"
+	},
+	{
+		"abr": "duster(nearmare)",
+		"price": 1050,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_Sh_Kd"
+	},
+	{
+		"abr": "electricpot",
+		"price": 216,
+		"category": "Production",
+		"defname": "VCE_ElectricPot"
+	},
+	{
+		"abr": "evaporationpond",
+		"price": 6,
+		"category": "Misc",
+		"defname": "EP_EvaporationPond"
+	},
+	{
+		"abr": "factionpowergenerator",
+		"price": 425,
+		"category": "Misc",
+		"defname": "EmpirePowerGenerator"
+	},
+	{
+		"abr": "fakekurintail",
+		"price": 282,
+		"category": "Prosthetic",
+		"defname": "Kurin_FakeTail"
+	},
+	{
+		"abr": "finebake",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VCE_FineBake"
+	},
+	{
+		"abr": "finedessert",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VCE_FineDessert"
+	},
+	{
+		"abr": "finegrill",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VCE_FineGrill"
+	},
+	{
+		"abr": "finesoup",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VCE_CookedSoupFine"
+	},
+	{
+		"abr": "firewardcharm",
+		"price": 157,
+		"category": "Apparel",
+		"defname": "Kijin_FirewardCharm"
+	},
+	{
+		"abr": "flail",
+		"price": 298,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_SkavenFlail"
+	},
+	{
+		"abr": "floralaccessory(nearmare)",
+		"price": 367,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_MHK"
+	},
+	{
+		"abr": "flour",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "VCE_Flour"
+	},
+	{
+		"abr": "gelatin",
+		"price": 13,
+		"category": "Animal products",
+		"defname": "ROMB_Gelatin"
+	},
+	{
+		"abr": "goldbar",
+		"price": 1667,
+		"category": "Raw resources",
+		"defname": "GoldBar"
+	},
+	{
+		"abr": "gourmetbake",
+		"price": 117,
+		"category": "Meals",
+		"defname": "VCE_GourmetBake"
+	},
+	{
+		"abr": "gourmetdessert",
+		"price": 125,
+		"category": "Meals",
+		"defname": "VCE_GourmetDessert"
+	},
+	{
+		"abr": "gourmetgrill",
+		"price": 125,
+		"category": "Meals",
+		"defname": "VCE_GourmetGrill"
+	},
+	{
+		"abr": "gourmetmeal",
+		"price": 117,
+		"category": "Meals",
+		"defname": "VCE_MealGourmet"
+	},
+	{
+		"abr": "gourmetsoup",
+		"price": 117,
+		"category": "Meals",
+		"defname": "VCE_CookedSoupGourmet"
+	},
+	{
+		"abr": "grill",
+		"price": 282,
+		"category": "Production",
+		"defname": "VCE_Grill"
+	},
+	{
+		"abr": "guardingvest",
+		"price": 400,
+		"category": "Apparel",
+		"defname": "Kijin_FlakVest"
+	},
+	{
+		"abr": "hairband(nearmare)",
+		"price": 367,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_Cts"
+	},
+	{
+		"abr": "haori(nearmare)",
+		"price": 1050,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_Sh_Ho"
+	},
+	{
+		"abr": "hauntedblade『larva』",
+		"price": 1300,
+		"category": "Ranged weapons",
+		"defname": "Larva_SKnife"
+	},
+	{
+		"abr": "hornedskaven",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "Alien_HornedSkaven"
+	},
+	{
+		"abr": "hotspring",
+		"price": 2700,
+		"category": "Misc",
+		"defname": "HotSpringKijin"
+	},
+	{
+		"abr": "infernoarmor",
+		"price": 8333,
+		"category": "Apparel",
+		"defname": "Kijin_EpicArmor"
+	},
+	{
+		"abr": "infernoheadgear",
+		"price": 8333,
+		"category": "Headgear",
+		"defname": "Kijin_EpicHelm"
+	},
+	{
+		"abr": "insectjellypreserves",
+		"price": 15,
+		"category": "Condiments",
+		"defname": "VCE_InsectJellyPreserves"
+	},
+	{
+		"abr": "iron",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "Iron"
+	},
+	{
+		"abr": "karambit",
+		"price": 98,
+		"category": "Melee weapons",
+		"defname": "Nr_Karambit"
+	},
+	{
+		"abr": "kerbal",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "Alien_Kerbal"
+	},
+	{
+		"abr": "kerbalmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alien_Kerbal"
+	},
+	{
+		"abr": "kijin",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "Alien_Kijin"
+	},
+	{
+		"abr": "kijinelectricsmithy",
+		"price": 492,
+		"category": "Production",
+		"defname": "KijinElectricSmithy"
+	},
+	{
+		"abr": "kijinfan",
+		"price": 650,
+		"category": "Grenades",
+		"defname": "Kijin_Fan"
+	},
+	{
+		"abr": "kijinflamebow",
+		"price": 260,
+		"category": "Ranged weapons",
+		"defname": "Kijin_FlameBow"
+	},
+	{
+		"abr": "kijinmace",
+		"price": 286,
+		"category": "Melee weapons",
+		"defname": "Kijin_Mace"
+	},
+	{
+		"abr": "kijinmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "Meat_Alien_Kijin"
+	},
+	{
+		"abr": "kijinparalysisbow",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "Kijin_PosionBow"
+	},
+	{
+		"abr": "kijinpolearm",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "Kijin_Polearm"
+	},
+	{
+		"abr": "kijinshrine",
+		"price": 2350,
+		"category": "Misc",
+		"defname": "NatureShrine_Kijin"
+	},
+	{
+		"abr": "kijinsmithy",
+		"price": 333,
+		"category": "Production",
+		"defname": "KijinSmithy"
+	},
+	{
+		"abr": "kijinsmokebomb",
+		"price": 592,
+		"category": "Grenades",
+		"defname": "Kijin_SmokeBomb"
+	},
+	{
+		"abr": "kimono(nearmare)",
+		"price": 1058,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_Kimono"
+	},
+	{
+		"abr": "kurin",
+		"price": 5833,
+		"category": "Animal",
+		"defname": "Kurin_Race"
+	},
+	{
+		"abr": "kurinarmoredgothicdress",
+		"price": 2658,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Armored_Gothic_Dress"
+	},
+	{
+		"abr": "kurinassaultrifle",
+		"price": 792,
+		"category": "Ranged weapons",
+		"defname": "Kurin_Gun_Assault_Rifle"
+	},
+	{
+		"abr": "kurinbikiniarmor",
+		"price": 2567,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Bikini_Armor"
+	},
+	{
+		"abr": "kurinbikiniarmorheadgear",
+		"price": 867,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Bikini_Armor_Headgear"
+	},
+	{
+		"abr": "kurinblackunderwear",
+		"price": 112,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_Black"
+	},
+	{
+		"abr": "kurinbodyarmor",
+		"price": 358,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_Middle_Body_Armor"
+	},
+	{
+		"abr": "kurincarbine",
+		"price": 792,
+		"category": "Ranged weapons",
+		"defname": "Kurin_Gun_Carbine"
+	},
+	{
+		"abr": "kurincardigan",
+		"price": 298,
+		"category": "Kurin shell apparel",
+		"defname": "Kurin_Shell_Cardigan"
+	},
+	{
+		"abr": "kurincasualhairpin",
+		"price": 164,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Casual_Hair_Pin"
+	},
+	{
+		"abr": "kurincasualwear",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Casual_Wear"
+	},
+	{
+		"abr": "kurinceremonialpolearm",
+		"price": 892,
+		"category": "Melee weapons",
+		"defname": "Kurin_MeleeWeapon_Ceremonial_Polearm"
+	},
+	{
+		"abr": "kurinceremonialsword",
+		"price": 558,
+		"category": "Melee weapons",
+		"defname": "Kurin_MeleeWeapon_Ceremonial_Sword"
+	},
+	{
+		"abr": "kurincutedress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Cute_Dress"
+	},
+	{
+		"abr": "kurincutehairpin",
+		"price": 417,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Cute_Hair_Pin"
+	},
+	{
+		"abr": "kurinduster",
+		"price": 298,
+		"category": "Kurin shell apparel",
+		"defname": "Kurin_Shell_Duster"
+	},
+	{
+		"abr": "kurinelectrictailorbench",
+		"price": 533,
+		"category": "Production",
+		"defname": "Kurin_Electric_Tailoring_Bench"
+	},
+	{
+		"abr": "kuringoggles",
+		"price": 178,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Goggles"
+	},
+	{
+		"abr": "kuringothicdress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Gothic_Dress"
+	},
+	{
+		"abr": "kuringothichairpin",
+		"price": 417,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Gothic_Hair_Pin"
+	},
+	{
+		"abr": "kurinhoodie",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Hoodie"
+	},
+	{
+		"abr": "kurinhotpants",
+		"price": 169,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Hot_Pants"
+	},
+	{
+		"abr": "kurinhwatcha",
+		"price": 758,
+		"category": "Misc",
+		"defname": "Kurin_FireTurret"
+	},
+	{
+		"abr": "kurinmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Kurin_Race"
+	},
+	{
+		"abr": "kurinmilitaryhelmet",
+		"price": 867,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Military_Helmet"
+	},
+	{
+		"abr": "kurinmilitaryuniform",
+		"price": 1425,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Military_Uniform"
+	},
+	{
+		"abr": "kurinnanoedgepolearm",
+		"price": 7500,
+		"category": "Melee weapons",
+		"defname": "Kurin_nanoedge"
+	},
+	{
+		"abr": "kurinnundress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Nun_Dress"
+	},
+	{
+		"abr": "kurinonepiecedress",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_One_Piece_Dress"
+	},
+	{
+		"abr": "kurinopenbackknit",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Open_Back_Knit"
+	},
+	{
+		"abr": "kurinopenshoulderknit",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Open_Shoulder_Knit"
+	},
+	{
+		"abr": "kurinpajamasa",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_PajamasA"
+	},
+	{
+		"abr": "kurinpajamasb",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_PajamasB"
+	},
+	{
+		"abr": "kurinpajamasc",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_PajamasC"
+	},
+	{
+		"abr": "kurinprudeunderwear",
+		"price": 112,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_Prude"
+	},
+	{
+		"abr": "kurinredunderwear",
+		"price": 112,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_Red"
+	},
+	{
+		"abr": "kurinseductiveblackdress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Seductive_Black_Dress"
+	},
+	{
+		"abr": "kurinseductivewhitedress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Seductive_White_Dress"
+	},
+	{
+		"abr": "kurinshirt",
+		"price": 191,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Shirt"
+	},
+	{
+		"abr": "kurinslimunderwear",
+		"price": 112,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_Slim"
+	},
+	{
+		"abr": "kurinsniperrifle",
+		"price": 842,
+		"category": "Ranged weapons",
+		"defname": "Kurin_Gun_Sniper_Rifle"
+	},
+	{
+		"abr": "kurinstripedunderwear",
+		"price": 112,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_Striped_Stuffed"
+	},
+	{
+		"abr": "kurinsummerhat",
+		"price": 95,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Summer_Hat"
+	},
+	{
+		"abr": "kurinsurigum",
+		"price": 206,
+		"category": "Ranged weapons",
+		"defname": "Kurin_Gun_Surigum"
+	},
+	{
+		"abr": "kurintailblade",
+		"price": 2092,
+		"category": "Bionic",
+		"defname": "KurinTailBlade"
+	},
+	{
+		"abr": "kurintraditionalcoat",
+		"price": 633,
+		"category": "Kurin shell apparel",
+		"defname": "Kurin_OnSkin_Traditional_Coat"
+	},
+	{
+		"abr": "kurintraditionalfancydress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Traditional_Fancy_Dress"
+	},
+	{
+		"abr": "kurintraditionalhairpin",
+		"price": 417,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Traditional_Hair_Pin"
+	},
+	{
+		"abr": "kurintraditionalluxurydress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Traditional_Luxury_Dress"
+	},
+	{
+		"abr": "kurintraditionalsimpledress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Traditional_Simple_Dress"
+	},
+	{
+		"abr": "kurint-shirt",
+		"price": 191,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_T_Shirt"
+	},
+	{
+		"abr": "kurinunderwear",
+		"price": 112,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_Stuffed"
+	},
+	{
+		"abr": "kurinwhitestripedbra",
+		"price": 112,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_Striped"
+	},
+	{
+		"abr": "kurinwhiteunderwear",
+		"price": 112,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear"
+	},
+	{
+		"abr": "kurinwinterhat",
+		"price": 95,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Winter_Hat"
+	},
+	{
+		"abr": "kurinwinterpadding",
+		"price": 298,
+		"category": "Kurin shell apparel",
+		"defname": "Kurin_Shell_Winter_Padding"
+	},
+	{
+		"abr": "kurinworkjumpsuit",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Work_Jumpsuit"
+	},
+	{
+		"abr": "lavishbake",
+		"price": 67,
+		"category": "Meals",
+		"defname": "VCE_LavishBake"
+	},
+	{
+		"abr": "lavishdessert",
+		"price": 67,
+		"category": "Meals",
+		"defname": "VCE_LavishDessert"
+	},
+	{
+		"abr": "lavishgrill",
+		"price": 67,
+		"category": "Meals",
+		"defname": "VCE_LavishGrill"
+	},
+	{
+		"abr": "lavishsoup",
+		"price": 67,
+		"category": "Meals",
+		"defname": "VCE_CookedSoupLavish"
+	},
+	{
+		"abr": "lighthelm(nearmare)",
+		"price": 533,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_HArmor"
+	},
+	{
+		"abr": "longneedle",
+		"price": 297,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_LongNeedle"
+	},
+	{
+		"abr": "longsleevedshirt(nearmare)",
+		"price": 183,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_SShirts"
+	},
+	{
+		"abr": "lv1nightgaunt",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_NightGaunts"
+	},
+	{
+		"abr": "lv1nightgauntmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_NightGaunts"
+	},
+	{
+		"abr": "lv1nightmare",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_Nearmare"
+	},
+	{
+		"abr": "lv1nightmare",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_Nightmare"
+	},
+	{
+		"abr": "lv1nightmaremeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_Nearmare"
+	},
+	{
+		"abr": "lv1nightmaremeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_Nightmare"
+	},
+	{
+		"abr": "lv1nightstalker",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_NightStalker"
+	},
+	{
+		"abr": "lv1nightstalkermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_NightStalker"
+	},
+	{
+		"abr": "lv2nightgaunt",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_NightGaunts_b"
+	},
+	{
+		"abr": "lv2nightgauntmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_NightGaunts_b"
+	},
+	{
+		"abr": "lv2nightmare",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_Nightmare_b"
+	},
+	{
+		"abr": "lv2nightmaremeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_Nightmare_b"
+	},
+	{
+		"abr": "lv2nightstalker",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_NightStalker_b"
+	},
+	{
+		"abr": "lv2nightstalkermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_NightStalker_b"
+	},
+	{
+		"abr": "lv3nightgaunt",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_NightGaunts_c"
+	},
+	{
+		"abr": "lv3nightgauntmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_NightGaunts_c"
+	},
+	{
+		"abr": "lv3nightmare",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_Nightmare_c"
+	},
+	{
+		"abr": "lv3nightmaremeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_Nightmare_c"
+	},
+	{
+		"abr": "lv3nightstalker",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_NightStalker_c"
+	},
+	{
+		"abr": "lv3nightstalkermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_NightStalker_c"
+	},
+	{
+		"abr": "lv4nightgaunt",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_NightGaunts_d"
+	},
+	{
+		"abr": "lv4nightgauntmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_NightGaunts_d"
+	},
+	{
+		"abr": "lv4nightmare",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_Nightmare_d"
+	},
+	{
+		"abr": "lv4nightmaremeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_Nightmare_d"
+	},
+	{
+		"abr": "lv4nightstalker",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_NightStalker_d"
+	},
+	{
+		"abr": "lv4nightstalkermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_NightStalker_d"
+	},
+	{
+		"abr": "lv5nightgaunt",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_NightGaunts_e"
+	},
+	{
+		"abr": "lv5nightgauntmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_NightGaunts_e"
+	},
+	{
+		"abr": "lv5nightmare",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_Nightmare_e"
+	},
+	{
+		"abr": "lv5nightmaremeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_Nightmare_e"
+	},
+	{
+		"abr": "lv5nightstalker",
+		"price": 2,
+		"category": "Animals",
+		"defname": "NM_M_NightStalker_e"
+	},
+	{
+		"abr": "lv5nightstalkermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NM_M_NightStalker_e"
+	},
+	{
+		"abr": "machairodus",
+		"price": 7000,
+		"category": "Nyaron ranged weapons",
+		"defname": "Nr_FlakCaster"
+	},
+	{
+		"abr": "maidclothes(nearmare)",
+		"price": 725,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_Maid"
+	},
+	{
+		"abr": "maidhairband(nearmare)",
+		"price": 367,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_MCt"
+	},
+	{
+		"abr": "makeshiftfuse",
+		"price": 120,
+		"category": "Power",
+		"defname": "Building_RTMakeshiftFuse"
+	},
+	{
+		"abr": "mantle(nearmare)",
+		"price": 1050,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_Sh_SKo"
+	},
+	{
+		"abr": "mayo",
+		"price": 6,
+		"category": "Condiments",
+		"defname": "VCE_Mayo"
+	},
+	{
+		"abr": "meatrack",
+		"price": 43,
+		"category": "Production",
+		"defname": "SM_MeatRack"
+	},
+	{
+		"abr": "minifoldpdw",
+		"price": 625,
+		"category": "Nyaron ranged weapons",
+		"defname": "Nr_MfoldPdw"
+	},
+	{
+		"abr": "miningshaft",
+		"price": 825,
+		"category": "Misc",
+		"defname": "miningshaft"
+	},
+	{
+		"abr": "minisword",
+		"price": 1667,
+		"category": "Special melee weapons",
+		"defname": "Nr_MiniSword"
+	},
+	{
+		"abr": "monumentalstatue",
+		"price": 35392,
+		"category": "Misc",
+		"defname": "National_Statue"
+	},
+	{
+		"abr": "moulderbench",
+		"price": 450,
+		"category": "Production",
+		"defname": "SkavenMoulderBench"
+	},
+	{
+		"abr": "moulderskaven",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "Alien_SkavenMoulder"
+	},
+	{
+		"abr": "n.p.crifle",
+		"price": 1483,
+		"category": "Nyaron ranged weapons",
+		"defname": "Nr_NpcRifle"
+	},
+	{
+		"abr": "nearmare",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "HAR_Nearmaere"
+	},
+	{
+		"abr": "nearmaremeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_HAR_Nearmaere"
+	},
+	{
+		"abr": "nearmaresewingmachine",
+		"price": 508,
+		"category": "Production",
+		"defname": "HTBench_HAR"
+	},
+	{
+		"abr": "nightdemon'scursedarmor(nearmare)",
+		"price": 1083,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_KArmor"
+	},
+	{
+		"abr": "nightdemon'slightarmor(nearmare)",
+		"price": 1083,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_DLArmor"
+	},
+	{
+		"abr": "noosetrap",
+		"price": 84,
+		"category": "Security",
+		"defname": "DRNTF_NooseTrap"
+	},
+	{
+		"abr": "nuko",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Maidnukos"
+	},
+	{
+		"abr": "nukohair",
+		"price": 7,
+		"category": "Wools",
+		"defname": "MaidnukosHair"
+	},
+	{
+		"abr": "nukoidbell",
+		"price": 750,
+		"category": "Utility",
+		"defname": "Nukoidbell"
+	},
+	{
+		"abr": "nukomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Maidnukos"
+	},
+	{
+		"abr": "nukomilk",
+		"price": 11,
+		"category": "Animal products",
+		"defname": "MaidnukosMilk"
+	},
+	{
+		"abr": "nurseattire(nearmare)",
+		"price": 683,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_NurseS"
+	},
+	{
+		"abr": "nyaron",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "Alien_Nyaron"
+	},
+	{
+		"abr": "nyaroncombatjacket",
+		"price": 933,
+		"category": "Nyaron Apparels",
+		"defname": "Nr_CatJacket"
+	},
+	{
+		"abr": "nyaronleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Nyaron"
+	},
+	{
+		"abr": "nyaronmaidcostume",
+		"price": 322,
+		"category": "Nyaron Apparels",
+		"defname": "Nr_CatMaid"
+	},
+	{
+		"abr": "nyaronmaidhairband",
+		"price": 93,
+		"category": "Nyaron Apparels",
+		"defname": "Nr_CatMaidBand"
+	},
+	{
+		"abr": "nyaronmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alien_Nyaron"
+	},
+	{
+		"abr": "nyaronpowerarmor",
+		"price": 2633,
+		"category": "Nyaron Apparels",
+		"defname": "Nr_PowerArmor"
+	},
+	{
+		"abr": "nyaronpowerarmorhelmet",
+		"price": 1217,
+		"category": "Headgear",
+		"defname": "Nr_PowerArmorHelmet"
+	},
+	{
+		"abr": "nyaronsimpleuniform",
+		"price": 34,
+		"category": "Nyaron Apparels",
+		"defname": "Nr_SUniform"
+	},
+	{
+		"abr": "nyaronstalkbow",
+		"price": 2667,
+		"category": "Ranged weapons",
+		"defname": "Nr_Stkbow"
+	},
+	{
+		"abr": "packarmour",
+		"price": 750,
+		"category": "Armor",
+		"defname": "Apparel_MoulderPadded"
+	},
+	{
+		"abr": "paddedarmour",
+		"price": 255,
+		"category": "Armor",
+		"defname": "Apparel_SkavenPadded"
+	},
+	{
+		"abr": "paralysisdagger",
+		"price": 525,
+		"category": "Melee weapons",
+		"defname": "Kijin_PoisonDagger"
+	},
+	{
+		"abr": "personaflameblade",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Kijin_FlameSword"
+	},
+	{
+		"abr": "plasmsword",
+		"price": 1667,
+		"category": "Special melee weapons",
+		"defname": "Nr_PlasmSword"
+	},
+	{
+		"abr": "powerconduit",
+		"price": 3,
+		"category": "Misc",
+		"defname": "KCSG_PowerConduit"
+	},
+	{
+		"abr": "prostheticbuntail",
+		"price": 225,
+		"category": "Prosthetic",
+		"defname": "Bun_ProstheticTail"
+	},
+	{
+		"abr": "ragcloth",
+		"price": 105,
+		"category": "Apparel",
+		"defname": "Apparel_SkavenCloth"
+	},
+	{
+		"abr": "ragtunic",
+		"price": 139,
+		"category": "Apparel",
+		"defname": "Apparel_SkavenTunic"
+	},
+	{
+		"abr": "ratogre",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "RatOgreBlade"
+	},
+	{
+		"abr": "ratogre",
+		"price": 2333,
+		"category": "Animal",
+		"defname": "RatOgreAnimal"
+	},
+	{
+		"abr": "ratogreblade",
+		"price": 304,
+		"category": "Prosthetic",
+		"defname": "SkavenOgreBlade"
+	},
+	{
+		"abr": "ratogresteelleg",
+		"price": 224,
+		"category": "Prosthetic",
+		"defname": "SkavenOgreLeg"
+	},
+	{
+		"abr": "ratlinggun",
+		"price": 958,
+		"category": "Ranged weapons",
+		"defname": "Gun_MinigunSkaven"
+	},
+	{
+		"abr": "rawsausage",
+		"price": 5,
+		"category": "Meals",
+		"defname": "SM_Sausage_Raw"
+	},
+	{
+		"abr": "ribbon(nearmare)",
+		"price": 367,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_MRbn"
+	},
+	{
+		"abr": "ridingsuit(nearmare)",
+		"price": 683,
+		"category": "Nearmare Clothing",
+		"defname": "HAR_NM_RiderS"
+	},
+	{
+		"abr": "royalcoffin",
+		"price": 1233,
+		"category": "Furniture",
+		"defname": "ROMV_RoyalCoffin"
+	},
+	{
+		"abr": "ruinedfinegrill",
+		"price": 30,
+		"category": "Meals",
+		"defname": "VCE_RuinedFineGrill"
+	},
+	{
+		"abr": "ruinedgourmetgrill",
+		"price": 100,
+		"category": "Meals",
+		"defname": "VCE_RuinedGourmetGrill"
+	},
+	{
+		"abr": "ruinedlavishgrill",
+		"price": 58,
+		"category": "Meals",
+		"defname": "VCE_RuinedLavishGrill"
+	},
+	{
+		"abr": "ruinedsimplegrill",
+		"price": 23,
+		"category": "Meals",
+		"defname": "VCE_RuinedSimpleGrill"
+	},
+	{
+		"abr": "salt",
+		"price": 3,
+		"category": "Condiments",
+		"defname": "VCE_Salt"
+	}
 	],
-	"total": 1427
+	"total": 1708
 }
